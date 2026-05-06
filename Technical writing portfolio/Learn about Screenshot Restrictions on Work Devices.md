@@ -1,10 +1,8 @@
----
-tags:
-  - Process-update
----
-**Who:** All (COMPANY) product support agents
-**Regions:** Global
-**Priority:** Medium
+# Learn about Screenshot Restrictions on Work Devices
+
+- **Who:** All (COMPANY) product support agents
+- **Regions:** Global
+- **Priority:** Medium
 
 Starting on May 2024, all (COMPANY) resources will have screenshot restrictions on their work devices. Screenshots can still be shared with other team members, but they cannot save or copy screenshots to be shared outside of the (COMPANY) file-sharing platform.
 
