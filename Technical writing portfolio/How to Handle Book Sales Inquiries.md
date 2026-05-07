@@ -1,4 +1,4 @@
-# How to Handle Book Sales
+# How to Handle Book Sales Inquiries
 
 **Target audience:** All (COMPANY) agents who support publication inquiries.
 
