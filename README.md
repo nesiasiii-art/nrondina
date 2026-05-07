@@ -21,3 +21,7 @@ This sample article was requested by a publication support team that was struggl
 ## Agent Memo Sample
 This is a deliverable requested by the client due to an upcoming security policy update that affects all workplace devices across all product support teams. I drafted the memo meant to be quickly read and understood by team members and take action accordingly.
 - [Learn about Screenshot Restrictions on Work Devices](https://github.com/nesiasiii-art/nrondina/blob/main/Technical%20writing%20portfolio/Learn%20about%20Screenshot%20Restrictions%20on%20Work%20Devices.md)
+
+## Product Start Guide
+This sample help center article was created for a new experimental accessibility app that can assist users with disability with using their mobile device. I was responsible for cleaning up and adding updates to majority of the content to reflect new features and align the content with the client's style guide. The new content updates improved the article's accessibility, readability, and overall user friendliness. Since the focus of the content is about a client's product, I used a fake product name in this sample work.
+- [About the No Hands Project](https://github.com/nesiasiii-art/nrondina/blob/main/Technical%20writing%20portfolio/About%20the%20No%20Hands%20Project.md)
