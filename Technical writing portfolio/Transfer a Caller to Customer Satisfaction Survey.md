@@ -31,7 +31,7 @@ If a caller needs assistance from third-party support, you can do either a warm 
 
 **What if the caller asks what the survey is about?**
 - Use this sample script:
-	> *"The survey will ask about your experience with our support. It's very important for us to listen to our customers in order to improve our services. We highly appreciate your feedback."
+	> *"The survey will ask about your experience with our support. It's very important for us to listen to our customers in order to improve our services. We highly appreciate your feedback."*
 
 **What if the caller asks how to take the survey?**
 - Use this sample script:
