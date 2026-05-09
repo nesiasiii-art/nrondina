@@ -17,7 +17,7 @@ The (COMPANY) publication support team receives a variety of book-related and pu
 ### Step 2: Respond to the User
 1. On the Case Manager tool, click **Compose e-mail**.
 2. Use this e-mail script:
-	> *"Thank you for reaching out to us. We'd like to inform you that the (COMPANY) publication support team doesn't handle issues related to book sales. We appreciate your feedback as we improve our services. If you need further assistance to your issue, please let us know.*
+	> *"Thank you for reaching out to us. We'd like to inform you that the (COMPANY) publication support team doesn't handle issues related to book sales. We appreciate your feedback as we improve our services. If you need further assistance to your issue, please let us know."*
 3. Click **Send**.
 4. In the related case, click **Create a case note** and provide the following:
 	- Issue type
