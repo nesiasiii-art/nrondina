@@ -7,7 +7,7 @@ Welcome to my portfolio, where you will see spec works and writing samples based
 
 # Contents
 
-**Important:** These are sample works with client sensitive info removed or replaced with a fake product or feature name. Any a tool, feature, or project name mentioned in these works is fictional.
+**Important:** These are sample works with client sensitive info removed or replaced with a fake product or feature name. Any tool, feature, or project name mentioned in these works is fictional.
 
 ## Customer Survey Documentation Samples 
 The following are part of a larger project I worked on for my client's product support team. They needed major revamps to their Tier 1 agent process documents which included a new process involving a customer satisfaction survey transfer. Working with other writers in the project due to the sheer amount of deliverables needed at a short TAT, I owned the updates to process docs related to handling calls and chats, managing abandoned chat sessions, and navigating the client's case management tool. We solved the team's problem by accurately presenting the new process without derailing the existing content, and assimilating it with the other processes so that it's easily grasped by the audience. If given enough time, I could've improved user experience by integrating other key processes separate from the docs instead of opening a new link or file.
